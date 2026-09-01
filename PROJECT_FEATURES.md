@@ -4,5 +4,15 @@ T1
 ## T-16: Land owner Resistration
 ## T-1: Secure User Authentication
 dev
+/T-23
+## T-23: Security Guard Registration
+
+dev
 ## T-26: View payment
+main
+dev
+
+dev
+## T-26: View payment
+main
 main
